@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className="header">
       <h1>Checkpoint : frontend</h1>
-      <Link href="/">Countries</Link>
+      <h2>Countries</h2>
     </header>
   );
 }
